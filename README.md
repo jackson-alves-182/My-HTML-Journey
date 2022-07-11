@@ -1,5 +1,5 @@
 <h1 align="center"> My developer Journey </h1>
-<h3 align="center"> All my projects in one place  </h3>
+<h3 align="center"> All my HTML projects in one place  </h3>
 
  <h3 align="center"> <a href="https://github.com/jackson-alves-182/challenge-discover-rocket-nfts"> <img src="https://github.com/jackson-alves-182/jackson-alves-182/blob/master/external-link.svg"> Challenge RocketSeat - Rock3t NFT </h3>
  
