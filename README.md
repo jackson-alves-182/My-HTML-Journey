@@ -11,5 +11,6 @@
  
    <h3 align="center"> <a href="https://github.com/jackson-alves-182/reddit-copy"> Reddit Copy  <img width="15px" src="https://github.com/jackson-alves-182/jackson-alves-182/blob/master/external-link.svg"> </h3>
 
- <h3 align="center"> <a href="https://github.com/jackson-alves-182/Snap-FrontEndMentor-Challenge"> FrontEndMentor - Project Snap  <img width="15px" src="https://github.com/jackson-alves-182/jackson-alves-182/blob/master/external-link.svg"> </a></h3>  
+ <h3 align="center"> <a href="https://github.com/jackson-alves-182/Snap-FrontEndMentor-Challenge"> Project Snap - FrontEndMentor <img width="15px" src="https://github.com/jackson-alves-182/jackson-alves-182/blob/master/external-link.svg"> </a></h3>  
 
+<h3 align="center"> <a href="https://github.com/jackson-alves-182/ecommerce-product-page"> E-commerce product page - FrontEndMentor <img width="15px"  src="https://github.com/jackson-alves-182/jackson-alves-182/blob/master/external-link.svg"> </a></h3>
